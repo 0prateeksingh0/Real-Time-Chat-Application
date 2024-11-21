@@ -76,8 +76,11 @@ Welcome to the **Real-Time Chat Application**, a feature-rich platform designed 
 
 ## ✨ **Screenshots**
 
-*(Add screenshots of your application here)*
 ![Screenshot (593)](https://github.com/user-attachments/assets/589ba6f2-ee12-4c41-9ff0-c7656cb8a83e)
+![Screenshot (589)](https://github.com/user-attachments/assets/409bd1be-2a96-45ac-bf31-e771d469188f)
+![Screenshot (590)](https://github.com/user-attachments/assets/5b8b7406-1ee8-4018-a8d5-b32cc287487e)
+![Screenshot (591)](https://github.com/user-attachments/assets/39e65e31-8afb-4f92-b804-157a1c6e098c)
+![Screenshot (592)](https://github.com/user-attachments/assets/8e9db52b-8135-4845-be57-86550770fb76)
 
 
 ---
