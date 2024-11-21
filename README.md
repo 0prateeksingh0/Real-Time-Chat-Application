@@ -1,6 +1,3 @@
-Here’s your **README.md** in proper markdown format:
-
-```markdown
 # Real-Time Chat Application  
 
 A **feature-rich platform** for instant communication, built with modern technologies to ensure seamless user experiences.  
@@ -40,7 +37,7 @@ A **feature-rich platform** for instant communication, built with modern technol
    ```bash
    git clone https://github.com/your-repo/real-time-chat-application.git
    cd real-time-chat-application  
-   ```  
+
 2. Install dependencies:  
    ```bash
    npm install  
